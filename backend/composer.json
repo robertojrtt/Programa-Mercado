@@ -1,0 +1,16 @@
+{
+    "name": "roberto/softexpert-software",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roberto T",
+            "email": "roberto.teixeira.rs2@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
